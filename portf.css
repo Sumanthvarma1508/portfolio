@@ -167,7 +167,7 @@ section .title::after{
 /* home section styling */
 .home.home{
      
-    background-image: url(photo.jpeg);
+   background-color: #080808;
     background-size: 100% 100%;
 }
 .home{
@@ -229,7 +229,7 @@ section .title::after{
     width: 45%;
 }
 .about .about-content .left img{
-    height: 550px;
+    height: 700px;
     width: 400px;
     object-fit: cover;
     border-radius: 6px;
